@@ -17,8 +17,8 @@ Mochila de Viagem é um projeto para se possa anotar os itens para um viagem, o 
 
 As seguintes tecnologias foram utilizadas no desenvolvimento da página do projeto:
 
-- **[Html]**
-- **[Css]**
-- **[JavaScript]**
+- **Html**
+- **Css**
+- **JavaScript**
 
 ---
